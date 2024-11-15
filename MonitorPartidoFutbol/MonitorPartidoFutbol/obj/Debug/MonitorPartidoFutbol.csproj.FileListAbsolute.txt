@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\bin\Debug\MonitorPartidoFutbol.exe.config
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\bin\Debug\MonitorPartidoFutbol.exe
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\bin\Debug\MonitorPartidoFutbol.pdb
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.Form1.resources
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.Properties.Resources.resources
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.exe
+C:\Users\gabri\source\repos\MonitorPartidoFutbol\MonitorPartidoFutbol\obj\Debug\MonitorPartidoFutbol.pdb

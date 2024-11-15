@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\bin\Debug\MarcadorDeportivo.exe.config
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\bin\Debug\MarcadorDeportivo.exe
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\bin\Debug\MarcadorDeportivo.pdb
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.Form1.resources
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.Properties.Resources.resources
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.exe
+C:\Users\gabri\source\repos\MarcadorDeportivo\MarcadorDeportivo\obj\Debug\MarcadorDeportivo.pdb
